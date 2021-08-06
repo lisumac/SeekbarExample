@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SeekbarExample</string>
+
+    <string name="judul_1">JUDUL 1</string>
+    <string name="judul_2">JUDUL 2</string>
+    <string name="judul_3">JUDUL 3</string>
+
+    <string name="desk_1">kucing kaget</string>
+    <string name="desk_2">kucing molor</string>
+    <string name="desk_3">kucing ngantuk</string>
 </resources>
